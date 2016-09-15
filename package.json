@@ -1,0 +1,28 @@
+{
+  "name": "advaya-model-controller",
+  "version": "0.0.0",
+  "description": "Advaya model and controller export",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Utkarsh85/advaya-model-controller.git"
+  },
+  "keywords": [
+    "advaya",
+    "model",
+    "controller",
+    "export"
+  ],
+  "author": "Utkarsh85",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Utkarsh85/advaya-model-controller/issues"
+  },
+  "homepage": "https://github.com/Utkarsh85/advaya-model-controller#readme",
+  "dependencies": {
+    "require-all": "^2.0.0"
+  }
+}
