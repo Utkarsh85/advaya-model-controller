@@ -1,7 +1,9 @@
-var models= require('./models');
-var controllers= require('./controllers');
-
-module.exports= {
-	models: models,
-	controllers: controllers
+module.exports= function () {
+	var models= require('./models');
+	var controllers= require('./controllers');
+	
+	return {
+		models: models,
+		controllers: controllers
+	}
 };
