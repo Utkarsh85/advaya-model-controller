@@ -1,6 +1,6 @@
 {
   "name": "advaya-model-controller",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Advaya model and controller export",
   "main": "index.js",
   "scripts": {
